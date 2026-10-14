@@ -3,9 +3,6 @@
 Published builds of [Eldrift](https://github.com/joshinteractive/Eldrift), a
 low-poly, atmospheric dark-fantasy RPG in active prototype development.
 
-This repository holds **built artifacts only**. The source code lives in a
-private repository; nothing here is the game's source.
-
 Downloads are under [Releases](../../releases):
 
 | File | For |
